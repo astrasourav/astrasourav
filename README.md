@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently practicing DSA.<br>I'm looking for help with data analytics and DSA.<br>I'm currently learning data analytics.
+I'm currently practicing DSA.<br>I'm looking for help with data analytics and DSA.<br>I'm currently learning AI/ML.
 
 
 ## 🌐 Socials:
